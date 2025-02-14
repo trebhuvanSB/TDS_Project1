@@ -1,0 +1,11 @@
+Flask[async]
+httpx
+python-dotenv
+numpy
+beautifulsoup4
+python-dateutil
+Pillow
+markdown2
+requests
+pandas
+uv
